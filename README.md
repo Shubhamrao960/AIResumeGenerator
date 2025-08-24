@@ -28,5 +28,3 @@ It combines a **React.js frontend** and a **Spring Boot backend** integrated wit
 - **Ollama (Local AI Model Integration)**
 
 ---
-
-## 📂 Project Structure
